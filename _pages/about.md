@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D candidate im ML at Bielefeld University
+subtitle: Ph.D candidate in ML at Bielefeld University
 
 profile:
   align: left
@@ -11,6 +11,7 @@ profile:
   more_info: >
    
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers_title: "Publications"
 social: true # includes social icons at the bottom of the page
 
 announcements:

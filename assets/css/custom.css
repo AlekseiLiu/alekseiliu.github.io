@@ -2,7 +2,7 @@
 
 /* Make social icons smaller and position them below profile image */
 .social .contact-icons {
-    font-size: 2rem !important;
+    font-size: 1.9rem !important;
     margin-top: 1rem !important;
     justify-content: center !important;
 }
