@@ -1,0 +1,23 @@
+/* Custom CSS for social icons - GitHub Pages compatible */
+
+/* Make social icons smaller and position them below profile image */
+.social .contact-icons {
+    font-size: 1.6rem !important;
+    margin-top: 1rem !important;
+    justify-content: center !important;
+}
+
+.social .contact-icons a {
+    margin: 0 0.3rem !important;
+}
+
+/* Ensure profile section has proper spacing */
+.profile {
+    margin-bottom: 1rem !important;
+}
+
+/* Make sure social icons don't interfere with other elements */
+.social {
+    margin-bottom: 1rem !important;
+    text-align: center !important;
+}
