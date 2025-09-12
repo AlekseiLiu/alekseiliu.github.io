@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D candidate in ML at Bielefeld University
+subtitle: Ph.D. candidate in ML at Bielefeld University
 
 profile:
   align: left
