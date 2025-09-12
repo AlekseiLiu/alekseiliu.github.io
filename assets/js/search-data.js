@@ -450,25 +450,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/307/8185.html", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6C%79%75%6C%79%61%6B%6F%76.%61%6C%65%78%65%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/AlekseiLiu", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -478,11 +464,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/aleksei-liuliakov", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0003-4676-9272", "_blank");
+          window.open("https://github.com/AlekseiLiu", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -490,6 +476,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=aUXBL8AAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-4676-9272", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/307/8185.html", "_blank");
         },
       },{
       id: 'light-theme',
