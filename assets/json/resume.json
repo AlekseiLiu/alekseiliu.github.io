@@ -78,20 +78,17 @@
     }
   ],
   "skills": [
-    { "name": "Machine Learning & Research", "keywords": ["Anomaly Detection", "OOD Robustness", "AutoML", "Graph Neural Networks", "Deep Learning"] },
+    { "name": "Machine Learning & Research", "keywords": ["Deep Learning", "Graph Neural Networks", "Anomaly Detection", 
+    "OOD Robustness", "Uncertainty Quantification", "AutoML"] },
     { "name": "Programming & Tools", "keywords": ["Python", "PyTorch", "PyTorch Geometric", "scikit-learn", "Optuna", "NumPy", "Pandas"] },
-    { "name": "Platforms & Practices", "keywords": ["Linux clusters", "Slurm", "Git", "GitHub"] }
+    { "name": "Platforms & Practices", "keywords": ["Linux", "Slurm", "Git", "GitHub"] }
   ],
   "languages": [
-    { "language": "Russian", "fluency": "Native" },
     { "language": "English", "fluency": "C1" },
     { "language": "German", "fluency": "B1" },
-    { "language": "French", "fluency": "A1" }
+    { "language": "French", "fluency": "A1" },
+    { "language": "Russian", "fluency": "Native" }
   ],
-  "projects": [
-    { "name": "TGN-SVDD", "summary": "Temporal Graph Network combined with Deep SVDD for unsupervised intrusion detection." },
-    { "name": "RTGN-SVDD", "summary": "Probabilistic extension with uncertainty estimation for robust anomaly detection." },
-    { "name": "AutoML pipelines", "summary": "Automated pipelines optimizing accuracy vs. sparsity using TPOT, Optuna, and NSGA-II." }
-  ],
+ 
   "profiles_extra": { "github": "https://github.com/AlekseiLiu", "website": "https://alekseiliu.github.io/" }
 }
