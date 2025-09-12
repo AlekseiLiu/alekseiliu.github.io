@@ -25,4 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Machine Learning at Bielefeld University, with a focus on anomaly/outlier detection and out-of-distribution data. My work progresses from interpretable AutoML pipelines, to dynamic graph neural networks for outlier detection, and finally to probabilistic frameworks that capture uncertainty under noise and adversarial settings.
+I am a PhD candidate in the [Machine Learning group (HammerLab)](https://hammer-lab.techfak.uni-bielefeld.de/) at Bielefeld University, focusing on anomaly and out‑of‑distribution (OOD) detection. My research spans interpretable AutoML pipelines, temporal/dynamic graph neural networks for anomaly detection, and probabilistic frameworks that model uncertainty under noise and adversarial conditions.
+
+<!-- I am a PhD candidate in the HammerLab Machine Learning group at Bielefeld University, with a focus on anomaly/outlier detection and out-of-distribution (OOD) data. My work progresses from interpretable AutoML pipelines, to dynamic graph neural networks for outlier detection, and finally to probabilistic frameworks that capture uncertainty under noise and adversarial settings. -->
