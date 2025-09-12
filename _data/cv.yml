@@ -1,97 +1,126 @@
+---
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Aleksei Liuliakov
+    - name: Headline
+      value: PhD Candidate in Machine Learning — Anomaly & OOD Detection, AutoML, GNNs
+    - name: Location
+      value: Bielefeld, Germany
+    - name: Email
+      value: lyulyakov.alexey@gmail.com
+    - name: Phone
+      value: "+49 176 40448828"
+    - name: Website
+      value: https://alekseiliu.github.io/
+    - name: GitHub
+      value: https://github.com/AlekseiLiu
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/aleksei-liuliakov
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Machine Learning
+      institution: Bielefeld University
+      year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - PhD candidate working on anomaly & out-of-distribution detection, AutoML and graph neural networks.
+        - Developed TGN-SVDD and probabilistic extensions for robust, uncertainty-aware intrusion detection.
+    - title: M.Sc. in Data Science
+      institution: Bielefeld University
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Automated Machine Learning (AutoML) technologies for feature selection.
+    - title: M.Sc. in Econometrics & Quantitative Economics
+      institution: Novosibirsk State University
+      year: 2007 - 2010
+      description:
+        - Coursework and dissertation on econometrics and quantitative methods.
+    - title: B.Sc. in Physics
+      institution: Novosibirsk State University
+      year: 2003 - 2007
+      description:
+        - Foundational training in mathematics and physics.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD Candidate — Machine Learning
+      institution: Bielefeld University
+      year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on anomaly detection, OOD robustness, AutoML pipelines, and graph neural networks.
+        - Publications in IDEAL, ICANN, ESANN, and Applied Soft Computing.
+        - Teaching & supervision experience (optimization, seminars on AI regulation).
+    - title: Tutor & Supervisor — Applied Optimization
+      institution: Bielefeld University
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Designed and led tutorial exercises; supervised student projects.
+    - title: Seminar Supervisor — AI Act in Machine Learning
+      institution: Bielefeld University
+      year: 2024 - 2025
       description:
+        - Guided student research and presentations on AI regulation and practical implications.
+    - title: Founder & CEO
+      institution: Baltik Bread, Novosibirsk
+      year: 2011 - 2018
+      description:
+        - Founded and scaled a manufacturing & sales business (managed ~25 employees).
+        - Responsibilities included operations management, partner relations, recruiting, and strategic planning.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Code & Repositories
+      year: ongoing
+      description: |
+        See my GitHub for code and project repositories: https://github.com/AlekseiLiu
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Highlights
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AutoML for Sparse & Interpretable Models
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Developed AutoML pipelines optimizing accuracy vs. sparsity (TPOT, Optuna, NSGA-II).
+        - Applied methods to intrusion detection and outlier detection benchmarks to improve interpretability.
+    - title: Dynamic Graph-Based Intrusion Detection (TGN-SVDD)
       items:
-        - Description 1.
-        - Description 2.
+        - Proposed TGN-SVDD: combines temporal graph networks with one-class classification for unsupervised intrusion detection.
+        - Showed improved results over classical detectors on network security datasets.
+    - title: Robust & Probabilistic Extensions (RTGN-SVDD)
+      items:
+        - Extended TGN-SVDD to output embedding uncertainty and incorporated dual scoring for robustness to noise and adversarial conditions.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Machine Learning & Research
+      items:
+        - Anomaly detection, OOD robustness, AutoML, Graph Neural Networks, Deep Learning
+    - title: Programming & Tools
+      items:
+        - Python, PyTorch, PyTorch Geometric, scikit-learn, Optuna, NumPy, Pandas
+    - title: Platforms & Practices
+      items:
+        - Linux clusters, Slurm, Git, GitHub
+    - title: Other
+      items:
+        - Teaching & mentoring, project supervision, leadership, strategic planning
+
+- title: Languages
+  type: list
+  contents:
+    - Russian — Native
+    - English — C1
+    - German — B1
+    - French — A1
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Hobbies: outdoor activities, hiking, reading, and open-source software.
+
+...
