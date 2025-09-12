@@ -4,7 +4,6 @@
     "label": "PhD Candidate — Machine Learning",
     "image": "",
     "email": "lyulyakov.alexey@gmail.com",
-    "phone": "+49 176 40448828",
     "url": "https://alekseiliu.github.io/",
     "summary": "PhD candidate in Machine Learning at Bielefeld University. Research focus: anomaly & out-of-distribution detection, AutoML, graph neural networks, and robust/uncertainty-aware methods.",
     "location": { "city": "Bielefeld", "region": "Germany" },
