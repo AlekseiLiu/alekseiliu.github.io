@@ -5,7 +5,7 @@
     - name: Full Name
       value: Aleksei Liuliakov
     - name: Headline
-      value: PhD Candidate in Machine Learning — Anomaly & OOD Detection, AutoML, GNNs
+      value: PhD Candidate in Machine Learning — Generative AI for NAS, Anomaly Detection, GNNs, RL Fine-Tuning
     - name: Location
       value: Bielefeld, Germany
     - name: Email
@@ -50,7 +50,7 @@
       year: 2020 - present
       description:
         - Research on anomaly detection, OOD robustness, AutoML pipelines, and graph neural networks.
-        - Publications in IDEAL, ICANN, ESANN, and Applied Soft Computing.
+        - Publications in IJCNN, ICANN, ESANN, IDEAL, and Applied Soft Computing.
         - Teaching & supervision experience (optimization, seminars on AI regulation).
     - title: Tutor & Supervisor — Applied Optimization
       institution: Bielefeld University
@@ -80,6 +80,10 @@
 - title: Research Highlights
   type: nested_list
   contents:
+    - title: "RL-Steered Graph Diffusion for NAS (DGPO)"
+      items:
+        - Proposed DGPO, extending RL-steered discrete graph diffusion to directed acyclic graphs for controllable neural architecture generation.
+        - Matches NAS-Bench-201 optimum; demonstrates transferable structural priors from 7% of search space. Accepted at IJCNN 2026.
     - title: AutoML for Sparse & Interpretable Models
       items:
         - Developed AutoML pipelines optimizing accuracy vs. sparsity (TPOT, Optuna, NSGA-II).
