@@ -84,6 +84,7 @@
       items:
         - Proposed DGPO, extending RL-steered discrete graph diffusion to directed acyclic graphs for controllable neural architecture generation.
         - Matches NAS-Bench-201 optimum; demonstrates transferable structural priors from 7% of search space. Accepted at IJCNN 2026.
+        - "Code: https://github.com/AlekseiLiu/DGPO"
     - title: AutoML for Sparse & Interpretable Models
       items:
         - Developed AutoML pipelines optimizing accuracy vs. sparsity (TPOT, Optuna, NSGA-II).
@@ -111,6 +112,14 @@
     - title: Other
       items:
         - Teaching & mentoring, project supervision, leadership, strategic planning
+
+- title: Peer Reviewing
+  type: list
+  contents:
+    - ESANN 2024 — 2 papers reviewed
+    - ESANN 2026 — 2 papers reviewed
+    - IJCNN 2024 — 1 paper reviewed
+    - IJCNN 2026 — 2 papers reviewed
 
 - title: Languages
   type: list

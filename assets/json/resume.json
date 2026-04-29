@@ -77,6 +77,26 @@
       "summary": "Foundational training in mathematics and physics."
     }
   ],
+  "publications": [
+    {
+      "name": "DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation",
+      "publisher": "IJCNN 2026 (WCCI)",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2602.19261",
+      "summary": "Accepted at IJCNN 2026.",
+      "code": "https://github.com/AlekseiLiu/DGPO"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Peer Reviewing",
+      "position": "Conference Reviewer",
+      "startDate": "2024",
+      "endDate": "2026",
+      "summary": "Reviewed papers for ESANN and IJCNN.",
+      "highlights": ["ESANN 2024: 2 papers", "ESANN 2026: 2 papers", "IJCNN 2024: 1 paper", "IJCNN 2026: 2 papers"]
+    }
+  ],
   "skills": [
     { "name": "Machine Learning & Research", "keywords": ["Deep Learning", "Graph Neural Networks", "Anomaly Detection", 
     "OOD Robustness", "Uncertainty Quantification", "AutoML"] },
