@@ -1,137 +1,210 @@
+# GENERATED from cv/latex_cv/raw_src_data_cv/cv_meta.yml by tools/export_site.py; do not edit
 ---
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Aleksei Liuliakov
-    - name: Headline
-      value: PhD Candidate in Machine Learning — Generative AI for NAS, Anomaly Detection, GNNs, RL Fine-Tuning
-    - name: Location
-      value: Bielefeld, Germany
-    - name: Email
-      value: lyulyakov.alexey@gmail.com
-    - name: Website
-      value: https://alekseiliu.github.io/
-    - name: GitHub
-      value: https://github.com/AlekseiLiu
-    - name: LinkedIn
-      value: https://www.linkedin.com/in/aleksei-liuliakov
-
+  - name: Full Name
+    value: Aleksei Liuliakov
+  - name: Status
+    value: PhD in Machine Learning, dissertation submitted September 2026, defence expected December 2026
+  - name: Research Focus
+    value: Generative AI • Graph Neural Networks • Reinforcement Learning • AutoML • Anomaly Detection
+  - name: Location
+    value: Bielefeld, Germany
+  - name: Email
+    value: <a href="mailto:lyulyakov.alexey@gmail.com">lyulyakov.alexey@gmail.com</a>
+  - name: Website
+    value: <a href="https://alekseiliu.github.io/">alekseiliu.github.io</a>
+  - name: GitHub
+    value: <a href="https://github.com/AlekseiLiu">github.com/AlekseiLiu</a>
+  - name: LinkedIn
+    value: <a href="https://www.linkedin.com/in/aleksei-liuliakov">linkedin.com/in/aleksei-liuliakov</a>
+  - name: Google Scholar
+    value: <a href="https://scholar.google.com/citations?user=aUXBL8AAAAAJ&amp;hl=en">scholar.google.com/citations</a>
+  - name: Semantic Scholar
+    value: <a href="https://www.semanticscholar.org/author/Aleksei-Liuliakov/2141865371">semanticscholar.org/author/Aleksei-Liuliakov/2141865371</a>
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Machine Learning
-      institution: Bielefeld University
-      year: 2020 - present
-      description:
-        - PhD candidate working on anomaly & out-of-distribution detection, AutoML and graph neural networks.
-        - Developed TGN-SVDD and probabilistic extensions for robust, uncertainty-aware intrusion detection.
-    - title: M.Sc. in Data Science
-      institution: Bielefeld University
-      year: 2018 - 2020
-      description:
-        - Thesis: Automated Machine Learning (AutoML) technologies for feature selection.
-    - title: M.Sc. in Econometrics & Quantitative Economics
-      institution: Novosibirsk State University
-      year: 2007 - 2010
-      description:
-        - Coursework and dissertation on econometrics and quantitative methods.
-    - title: B.Sc. in Physics
-      institution: Novosibirsk State University
-      year: 2003 - 2007
-      description:
-        - Foundational training in mathematics and physics.
-
+  - title: PhD (Dr. rer. nat.) in Machine Learning
+    institution: Bielefeld University
+    year: 2020 - 2026
+    description:
+    - 'Dissertation: ''Graph-Based Machine Learning: From Modeling Structured Data for Security to Generating Neural Architectures'' (supervisor: Prof. Barbara Hammer)'
+    - Defence expected Dec 2026
+  - title: M.Sc. in Data Science
+    institution: Bielefeld University
+    year: 2018 - 2021
+    description:
+    - 'Thesis: Automated Machine Learning (AutoML) technologies for feature selection'
+    - Thesis completed 2021-03-19
+  - title: M.Sc. in Econometrics &amp; Quantitative Economics
+    institution: Novosibirsk State University
+    year: 2007 - 2010
+    description:
+    - 'Degree topics include: econometrics, mathematical economics, microeconomics, macroeconomics'
+    - 'Dissertation: ''Evaluation of application possibilities of weather based financial options in Russia'''
+  - title: B.Sc. in Physics
+    institution: Novosibirsk State University
+    year: 2003 - 2007
+    description:
+    - 'Degree topics include: higher algebra and analytical geometry, differential equations, computer simulation of physical phenomena, linear algebra, calculus, functional analysis, probability theory and mathematical statistics'
+    - 'Dissertation: ''Research of cold cathode arc generators of plasma with time interval impulses measured in seconds'''
 - title: Experience
   type: time_table
   contents:
-    - title: PhD Candidate — Machine Learning
-      institution: Bielefeld University
-      year: 2020 - present
-      description:
-        - Research on anomaly detection, OOD robustness, AutoML pipelines, and graph neural networks.
-        - Publications in IJCNN, ICANN, ESANN, IDEAL, and Applied Soft Computing.
-        - Teaching & supervision experience (optimization, seminars on AI regulation).
-    - title: Tutor & Supervisor — Applied Optimization
-      institution: Bielefeld University
-      year: 2023 - 2025
-      description:
-        - Designed and led tutorial exercises; supervised student projects.
-    - title: Seminar Supervisor — AI Act in Machine Learning
-      institution: Bielefeld University
-      year: 2024 - 2025
-      description:
-        - Guided student research and presentations on AI regulation and practical implications.
-    - title: Founder & CEO
-      institution: Baltik Bread, Novosibirsk
-      year: 2011 - 2018
-      description:
-        - Founded and scaled a manufacturing & sales business (managed ~25 employees).
-        - Responsibilities included operations management, partner relations, recruiting, and strategic planning.
-
-- title: Selected Projects
-  type: time_table
-  contents:
-    - title: Code & Repositories
-      year: ongoing
-      description: |
-        See my GitHub for code and project repositories: https://github.com/AlekseiLiu
-
+  - title: Doctoral Researcher — Machine Learning
+    institution: Bielefeld University
+    year: 2020 - present
+    description:
+    - Research on generative AI for neural architecture search (graph diffusion + RL), anomaly &amp; OOD detection with AutoML, GNNs, and probabilistic methods.
+    - Published 6 papers at international conferences and journals (5 as first author).
+  - title: Founder &amp; CEO — Baltik Bread
+    institution: Baltik bread Novosibirsk (bakery manufacturing &amp; mobile retail)
+    location: Novosibirsk, Russia
+    year: 2011 - 2018
+    description:
+    - Co-founded and scaled a dual manufacturing + retail operation from zero with 500k-600k EUR initial investment; reached break-even in year 2; achieved full ROI with interest within 4 years.
+    - Grew the business to ~1M EUR annual revenue at peak, manufacturing ~2,500 units daily (~780K annually) across ~40 SKUs with a 90%+ sell-through rate and under 10% waste.
+    - Built and managed a 25-person organization across two departments (10 manufacturing, 15 retail/sales).
+    - 'Directed end-to-end production and distribution: central facility with 2 industrial ovens running 7-12h night shifts; fleet of 6+ mobile retail units; 5 main + 6-7 secondary suppliers.'
+    - Developed a distinctive portfolio of ~40 products in a novel market segment, achieving competitive differentiation against established players.
+    - Systematically tested and optimized mobile shop locations through empirical analysis, turning location selection into the primary competitive advantage.
+    - Obtained and maintained food safety certifications per Russian regulatory standards; passed periodic compliance audits.
+    - After achieving ROI, reinvested from own cash flow to expand the retail fleet and launch a frozen semi-processed product line for quality standardization and scalability.
+    - Planned and executed a partial business sale (retail and manufacturing divested separately) to transition into Machine Learning research and academia.
 - title: Research Highlights
   type: nested_list
   contents:
-    - title: "RL-Steered Graph Diffusion for NAS (DGPO)"
-      items:
-        - Proposed DGPO, extending RL-steered discrete graph diffusion to directed acyclic graphs for controllable neural architecture generation.
-        - Matches NAS-Bench-201 optimum; demonstrates transferable structural priors from 7% of search space. Accepted at IJCNN 2026.
-        - "Code: https://github.com/AlekseiLiu/DGPO"
-    - title: AutoML for Sparse & Interpretable Models
-      items:
-        - Developed AutoML pipelines optimizing accuracy vs. sparsity (TPOT, Optuna, NSGA-II).
-        - Applied methods to intrusion detection and outlier detection benchmarks to improve interpretability.
-    - title: Dynamic Graph-Based Intrusion Detection (TGN-SVDD)
-      items:
-        - Proposed TGN-SVDD: combines temporal graph networks with one-class classification for unsupervised intrusion detection.
-        - Showed improved results over classical detectors on network security datasets.
-    - title: Robust & Probabilistic Extensions (RTGN-SVDD)
-      items:
-        - Extended TGN-SVDD to output embedding uncertainty and incorporated dual scoring for robustness to noise and adversarial conditions.
-
+  - title: Overview
+    items:
+    - 'My research spans two main areas: (1) generative AI for combinatorial optimization (neural architecture search using graph diffusion models steered by reinforcement learning), and (2) robust anomaly detection on dynamic graphs (from AutoML-based sparse models to temporal graph networks with probabilistic uncertainty modeling). The works address core challenges in automated model design, robustness, and interpretability.'
+  - title: 'DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation'
+    items:
+    - 'Technologies: DiGress (discrete graph diffusion), REINFORCE-style policy optimization, topological positional encoding, PyTorch, NAS-Bench-101, NAS-Bench-201'
+    - Proposed DGPO, extending RL-steered discrete graph diffusion from undirected molecular graphs to directed acyclic graphs (DAGs) via topological node ordering and positional encoding. Enables controllable generation of neural architectures through reward-driven distribution steering.
+    - 'Matches the NAS-Bench-201 optima on all three tasks (CIFAR-10: 91.61%, CIFAR-100: 73.49%, ImageNet-16-120: 46.77%; maximum validation accuracy by benchmark lookup, fixed cell connectivity so generation chooses operations). Achieves 94.50% on NAS-Bench-101 (benchmark lookup). Demonstrates transferable structural priors: pretrained on 7% of NAS-Bench-101 (topology generation), the best generated architecture lands within 0.32 pp of the full-data model and 7.27 pp above the pretraining ceiling (best generated architecture over evaluation draws, not a mean over all samples). 3 seeds; ~115 single-GPU hours on one A40. Multi-objective extension (MO-DGPO) reaches Pareto hypervolume 0.9901 on NAS-Bench-201, matching the union of three single-task runs (IJCNN 2026 paper).'
+    - 'Bidirectional-control ablation: inverse reward drives accuracy to 9.5% (chance), validating directional control of the generator.'
+    - 'Status: Accepted at IJCNN 2026 (WCCI)'
+    - 'Code: <a href="https://github.com/AlekseiLiu/DGPO">github.com/AlekseiLiu/DGPO</a>'
+  - title: AutoML for Sparse and Interpretable Models
+    items:
+    - 'Technologies: TPOT, Optuna, NSGA-II, scikit-learn pipelines, multi-objective optimization'
+    - Developed iterative AutoML pipelines that explore the Pareto front between accuracy and sparsity, adapting architectures at different sparsity levels. Extended the approach beyond classification to outlier detection, enabling interpretable sparse anomaly detectors.
+    - Demonstrated that different ML architectures are optimal at different sparsity levels for intrusion detection (UNSW-NB15, NSL-KDD) and outlier detection benchmarks (Cardio, Optdigits, Satimage-2). This positioned AutoML not as a black-box optimizer but as a tool for interpretable model design under trade-offs.
+  - title: Dynamic Graph-Based Intrusion Detection
+    items:
+    - 'Technologies: Temporal Graph Networks (TGN), Deep Support Vector Data Description (Deep SVDD), PyTorch Geometric'
+    - Proposed TGN-SVDD, the first end-to-end unsupervised intrusion detection model combining dynamic graph embeddings with deep one-class classification. Showed that vanilla TGNs, while strong for link prediction, are insufficient for intrusion detection—where anomaly detection objectives are critical.
+    - 'TGN-SVDD: ROC-AUC 0.994–0.999 vs 0.268–0.690 for vanilla TGN on CIC-IDS2017 (ICANN 2023)'
+    - On CIC-IDS2017 data, TGN-SVDD outperformed classical anomaly detectors (LOF, Isolation Forest) and vanilla TGN, establishing dynamic graph modeling as a superior paradigm for network-based anomaly detection.
+  - title: Robust Intrusion Detection under Noisy and Adversarial Conditions
+    items:
+    - 'Technologies: Probabilistic TGN-SVDD (RTGN-SVDD), Gaussian uncertainty modeling, negative sampling strategies'
+    - 'Extended TGN-SVDD into a probabilistic framework predicting Gaussian distributions over event embeddings. Introduced dual scoring mechanisms: one to filter noise, another to detect true attacks. Demonstrated robustness to increasing synthetic noise levels, where deterministic baselines failed.'
+    - 'RTGN-SVDD: ROC-AUC 0.574→0.844 and 0.561→0.880 under 50% label contamination vs the deterministic model (ESANN 2024)'
+    - Pioneered a direction towards robust, uncertainty-aware graph-based intrusion detection, bridging the gap between academic benchmarks and deployment in adversarial environments.
+  - title: Graph Learning by Dynamic Sampling (co-authored)
+    items:
+    - 'Technologies: Graph neural networks, dynamic sampling strategies'
+    - Co-authored work on dynamic sampling methods for graph learning, exploring how sampling strategies affect GNN training efficiency and performance.
+    - 'Venue: IJCNN 2023'
+- title: Publications
+  type: list
+  contents:
+  - 6 papers (5 as first author). Full list with links on the <a href="/publications/">Publications</a> page.
+- title: Teaching
+  type: time_table
+  contents:
+  - title: Tutor &amp; Supervisor — Applied Optimization (Lecture &amp; Tutorials)
+    institution: Bielefeld University
+    year: 2023 - 2025
+    description:
+    - 'Semesters: Oct 2023 – Mar 2024; Oct 2024 – Mar 2025'
+    - Supervised and coordinated fellow tutors to prepare tutorial sessions.
+    - Designed and presented applied optimization exercises on additional and advanced topics.
+    - Facilitated discussions and iteratively improved tasks based on student and tutor feedback.
+  - title: Seminar Supervisor &amp; Tutor — Implications of the AI Act in Machine Learning (Seminar)
+    institution: Bielefeld University
+    year: 2024 - 2025
+    description:
+    - 'Semesters: Apr 2024 – Sep 2024; Apr 2025 – Sep 2025'
+    - Organised and led seminar on AI regulation and practical ML applications.
+    - Supervised student groups in topic analysis, presentations, and applied projects.
+    - Provided structured feedback and facilitated debates to strengthen analytical and presentation skills.
+- title: Service
+  type: list
+  contents:
+  - Session chair, 'AI for Finance and Economics', IJCNN 2026 (IEEE WCCI, Maastricht)
+  - Sole seminar instructor, 'Implications of the AI Act in Machine Learning', Bielefeld University, SoSe 2024 and SoSe 2025
+  - 'Reviewer, ESANN 2024: 1 paper'
+  - 'Reviewer, ESANN 2026: 2 papers'
+  - 'Reviewer, IJCNN 2024: 1 paper'
+  - 'Reviewer, IJCNN 2026: 2 papers'
+- title: Talks
+  type: time_table
+  contents:
+  - title: IDEAL 2021 conference talk
+    year: '2021'
+    institution: IDEAL 2021
+    description:
+    - conference talk
+  - title: AutoML
+    year: '2023'
+    description:
+    - internal talk
+  - title: Noise-robust TGN (work in progress)
+    year: '2024'
+    description:
+    - internal talk
+  - title: NAS via graph diffusion + RL
+    year: '2025'
+    description:
+    - group talk
+  - title: 'AI Automation Tools: Agentic Workflows and Coding Agents'
+    year: '2026'
+    description:
+    - group talk
+  - title: 'DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation'
+    year: '2026'
+    institution: IJCNN 2026 (IEEE WCCI), Maastricht
+    description:
+    - poster presentation
 - title: Skills
   type: nested_list
   contents:
-    - title: Machine Learning & Research
-      items:
-        - Anomaly detection, OOD robustness, AutoML, Graph Neural Networks, Deep Learning
-    - title: Programming & Tools
-      items:
-        - Python, PyTorch, PyTorch Geometric, scikit-learn, Optuna, NumPy, Pandas
-    - title: Platforms & Practices
-      items:
-        - Linux clusters, Slurm, Git, GitHub
-    - title: Other
-      items:
-        - Teaching & mentoring, project supervision, leadership, strategic planning
-
-- title: Peer Reviewing
-  type: list
-  contents:
-    - ESANN 2024 — 2 papers reviewed
-    - ESANN 2026 — 2 papers reviewed
-    - IJCNN 2024 — 1 paper reviewed
-    - IJCNN 2026 — 2 papers reviewed
-
+  - title: ML &amp; AI
+    items:
+    - Generative AI, Diffusion Models, Reinforcement Learning, Graph Neural Networks, Deep Learning, AutoML, Neural Architecture Search, Anomaly Detection, OOD Robustness, Probabilistic Modeling
+  - title: Programming
+    items:
+    - Python, PyTorch, PyTorch Geometric, PyTorch Lightning, Optuna, scikit-learn, NumPy, Pandas, R, JavaScript, HTML, CSS
+  - title: AI-Agentic Tools
+    items:
+    - Claude Code, OpenAI Codex, GitHub Copilot, dense context-and-constraint environments for AI-assisted DL research, multilevel planning with batch-level implementation instructions, iterative TDD with cross-agent verification, systematic sequential/parallel agentic execution for experiment automation (DiGress/DGPO training, RL fine-tuning, NAS evaluation) and GPU cluster deployment via SLURM
+  - title: Engineering
+    items:
+    - 'Public research repos: DGPO (MIT, Makefile one-command reproduction, pinned requirements); rtgn_svdd (pyproject, pytest tests, docs)'
+  - title: Platforms
+    items:
+    - Linux clusters, Slurm, Docker, W&amp;B (Weights &amp; Biases)
+  - title: VCS &amp; IDE
+    items:
+    - Git, GitHub, VS Code
+  - title: Research Methods
+    items:
+    - Mathematical Modeling, Statistics, Applied Optimization, Experimental Design, Scientific Writing
+  - title: Business Operations
+    items:
+    - Quality control (manufacturing processes), Business KPI control, Recruiting &amp; mentoring new employees, Strategic planning; product &amp; service definition, Technical standards &amp; documentation
+  - title: Other
+    items:
+    - Teaching &amp; Mentoring, Project Supervision, Leadership, Strategic Planning
 - title: Languages
   type: list
   contents:
-    - Russian — Native
-    - English — C1
-    - German — B1
-    - French — A1
-
-- title: Other Interests
-  type: list
-  contents:
-    - Hobbies: outdoor activities, hiking, reading, and open-source software.
-
+  - English — C1
+  - German — B1
+  - Russian — Native
+  - French — A1
 ...

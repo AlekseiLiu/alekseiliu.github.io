@@ -10,12 +10,12 @@ email: lyulyakov.alexey@gmail.com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Student at the University of Bielefeld working on machine learning and artificial intelligence.
+  Aleksei Liuliakov. PhD in Machine Learning (Bielefeld University): RL-steered graph diffusion for neural architecture search, anomaly detection on dynamic graphs, AutoML.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: machine learning, graph neural networks, neural architecture search, graph diffusion, reinforcement learning, anomaly detection, AutoML, Aleksei Liuliakov
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -680,9 +680,7 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+jekyll_get_json: []
 
 jsonresume:
   - basics
