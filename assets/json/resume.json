@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Aleksei Liuliakov",
-    "label": "PhD Candidate — Machine Learning",
+    "label": "PhD in Machine Learning, dissertation submitted September 2026, defence expected December 2026",
     "image": "",
     "email": "lyulyakov.alexey@gmail.com",
     "url": "https://alekseiliu.github.io/",
-    "summary": "PhD candidate in Machine Learning at Bielefeld University. Research focus: anomaly & out-of-distribution detection, AutoML, graph neural networks, and robust/uncertainty-aware methods.",
+    "summary": "Doctoral Researcher in Machine Learning at Bielefeld University. PhD in Machine Learning, dissertation submitted September 2026, defence expected December 2026. Research focus: anomaly & out-of-distribution detection, AutoML, graph neural networks, and robust/uncertainty-aware methods.",
     "location": { "city": "Bielefeld", "region": "Germany" },
     "profiles": [
       { "network": "GitHub", "username": "AlekseiLiu", "url": "https://github.com/AlekseiLiu" },
@@ -15,7 +15,7 @@
   "work": [
     {
       "name": "Bielefeld University",
-      "position": "PhD Candidate — Machine Learning",
+      "position": "Doctoral Researcher, Machine Learning",
       "startDate": "2020-01-01",
       "endDate": "Present",
       "summary": "Research on anomaly detection, OOD robustness, AutoML pipelines, and graph neural networks. Publications in IDEAL, ICANN, ESANN, and Applied Soft Computing.",
@@ -50,7 +50,7 @@
       "studyType": "PhD",
       "startDate": "2020-01-01",
       "endDate": "Present",
-      "summary": "PhD candidate focusing on anomaly detection, AutoML, and GNNs."
+      "summary": "Dissertation submitted September 2026, defence expected December 2026. Focus: anomaly detection, AutoML, and GNNs."
     },
     {
       "institution": "Bielefeld University",
