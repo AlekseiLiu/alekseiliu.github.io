@@ -26,7 +26,7 @@
 - title: Education
   type: time_table
   contents:
-  - title: PhD (Dr. rer. nat.) in Machine Learning
+  - title: PhD in Machine Learning
     institution: Bielefeld University
     year: 2020 - 2026
     description:
@@ -53,13 +53,13 @@
 - title: Experience
   type: time_table
   contents:
-  - title: Doctoral Researcher — Machine Learning
+  - title: Doctoral Researcher, Machine Learning
     institution: Bielefeld University
     year: 2020 - present
     description:
     - Research on generative AI for neural architecture search (graph diffusion + RL), anomaly &amp; OOD detection with AutoML, GNNs, and probabilistic methods.
     - Published 6 papers at international conferences and journals (5 as first author).
-  - title: Founder &amp; CEO — Baltik Bread
+  - title: Founder &amp; CEO, Baltik Bread
     institution: Baltik bread Novosibirsk (bakery manufacturing &amp; mobile retail)
     location: Novosibirsk, Russia
     year: 2011 - 2018
@@ -95,7 +95,7 @@
   - title: Dynamic Graph-Based Intrusion Detection
     items:
     - 'Technologies: Temporal Graph Networks (TGN), Deep Support Vector Data Description (Deep SVDD), PyTorch Geometric'
-    - Proposed TGN-SVDD, the first end-to-end unsupervised intrusion detection model combining dynamic graph embeddings with deep one-class classification. Showed that vanilla TGNs, while strong for link prediction, are insufficient for intrusion detection—where anomaly detection objectives are critical.
+    - Proposed TGN-SVDD, an end-to-end unsupervised intrusion detection model combining dynamic graph embeddings with deep one-class classification. Showed that vanilla TGNs, while strong for link prediction, are insufficient for intrusion detection, where anomaly detection objectives are critical.
     - 'TGN-SVDD: ROC-AUC 0.994–0.999 vs 0.268–0.690 for vanilla TGN on CIC-IDS2017 (ICANN 2023)'
     - On CIC-IDS2017 data, TGN-SVDD outperformed classical anomaly detectors (LOF, Isolation Forest) and vanilla TGN, establishing dynamic graph modeling as a superior paradigm for network-based anomaly detection.
   - title: Robust Intrusion Detection under Noisy and Adversarial Conditions
@@ -103,7 +103,7 @@
     - 'Technologies: Probabilistic TGN-SVDD (RTGN-SVDD), Gaussian uncertainty modeling, negative sampling strategies'
     - 'Extended TGN-SVDD into a probabilistic framework predicting Gaussian distributions over event embeddings. Introduced dual scoring mechanisms: one to filter noise, another to detect true attacks. Demonstrated robustness to increasing synthetic noise levels, where deterministic baselines failed.'
     - 'RTGN-SVDD: ROC-AUC 0.574→0.844 and 0.561→0.880 under 50% label contamination vs the deterministic model (ESANN 2024)'
-    - Pioneered a direction towards robust, uncertainty-aware graph-based intrusion detection, bridging the gap between academic benchmarks and deployment in adversarial environments.
+    - Proposed a direction towards robust, uncertainty-aware graph-based intrusion detection, bridging the gap between academic benchmarks and deployment in adversarial environments.
   - title: Graph Learning by Dynamic Sampling (co-authored)
     items:
     - 'Technologies: Graph neural networks, dynamic sampling strategies'
@@ -116,7 +116,7 @@
 - title: Teaching
   type: time_table
   contents:
-  - title: Tutor &amp; Supervisor — Applied Optimization (Lecture &amp; Tutorials)
+  - title: Tutor &amp; Supervisor, Applied Optimization
     institution: Bielefeld University
     year: 2023 - 2025
     description:
@@ -124,7 +124,7 @@
     - Supervised and coordinated fellow tutors to prepare tutorial sessions.
     - Designed and presented applied optimization exercises on additional and advanced topics.
     - Facilitated discussions and iteratively improved tasks based on student and tutor feedback.
-  - title: Seminar Supervisor &amp; Tutor — Implications of the AI Act in Machine Learning (Seminar)
+  - title: Seminar Supervisor &amp; Tutor, Implications of the AI Act in Machine Learning
     institution: Bielefeld University
     year: 2024 - 2025
     description:
@@ -184,7 +184,7 @@
     - Claude Code, OpenAI Codex, GitHub Copilot, dense context-and-constraint environments for AI-assisted DL research, multilevel planning with batch-level implementation instructions, iterative TDD with cross-agent verification, systematic sequential/parallel agentic execution for experiment automation (DiGress/DGPO training, RL fine-tuning, NAS evaluation) and GPU cluster deployment via SLURM
   - title: Engineering
     items:
-    - 'Public research repos: DGPO (MIT, Makefile one-command reproduction, pinned requirements); rtgn_svdd (pyproject, pytest tests, docs)'
+    - 'Public research repos: DGPO (MIT, Makefile one-command reproduction, pinned requirements); rtgn_svdd (pyproject, pytest tests)'
   - title: Platforms
     items:
     - Linux clusters, Slurm, Docker, W&amp;B (Weights &amp; Biases)
@@ -203,8 +203,8 @@
 - title: Languages
   type: list
   contents:
-  - English — C1
-  - German — B1
-  - Russian — Native
-  - French — A1
+  - English - C1
+  - German - B1
+  - Russian - Native
+  - French - A1
 ...
