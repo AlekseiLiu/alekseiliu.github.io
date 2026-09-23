@@ -28,24 +28,28 @@
   contents:
   - title: PhD in Machine Learning
     institution: Bielefeld University
+    location: Bielefeld, Germany
     year: 2020 - 2026
     description:
     - 'Dissertation: ''Graph-Based Machine Learning: From Modeling Structured Data for Security to Generating Neural Architectures'' (supervisor: Prof. Barbara Hammer)'
     - Defence expected Dec 2026
   - title: M.Sc. in Data Science
     institution: Bielefeld University
+    location: Bielefeld, Germany
     year: 2018 - 2021
     description:
     - 'Thesis: Automated Machine Learning (AutoML) technologies for feature selection'
     - Thesis completed 2021-03-19
   - title: M.Sc. in Econometrics &amp; Quantitative Economics
     institution: Novosibirsk State University
+    location: Novosibirsk, Russia
     year: 2007 - 2010
     description:
     - 'Degree topics include: econometrics, mathematical economics, microeconomics, macroeconomics'
     - 'Dissertation: ''Evaluation of application possibilities of weather based financial options in Russia'''
   - title: B.Sc. in Physics
     institution: Novosibirsk State University
+    location: Novosibirsk, Russia
     year: 2003 - 2007
     description:
     - 'Degree topics include: higher algebra and analytical geometry, differential equations, computer simulation of physical phenomena, linear algebra, calculus, functional analysis, probability theory and mathematical statistics'
@@ -64,10 +68,10 @@
     location: Novosibirsk, Russia
     year: 2011 - 2018
     description:
-    - Co-founded and scaled a dual manufacturing + retail operation from zero with 500k-600k EUR initial investment; reached break-even in year 2; achieved full ROI with interest within 4 years.
+    - Co-founded and scaled a dual manufacturing + retail operation from zero with 500k - 600k EUR initial investment; reached break-even in year 2; achieved full ROI with interest within 4 years.
     - Grew the business to ~1M EUR annual revenue at peak, manufacturing ~2,500 units daily (~780K annually) across ~40 SKUs with a 90%+ sell-through rate and under 10% waste.
     - Built and managed a 25-person organization across two departments (10 manufacturing, 15 retail/sales).
-    - 'Directed end-to-end production and distribution: central facility with 2 industrial ovens running 7-12h night shifts; fleet of 6+ mobile retail units; 5 main + 6-7 secondary suppliers.'
+    - 'Directed end-to-end production and distribution: central facility with 2 industrial ovens running 7 - 12h night shifts; fleet of 6+ mobile retail units; 5 main + 6 - 7 secondary suppliers.'
     - Developed a distinctive portfolio of ~40 products in a novel market segment, achieving competitive differentiation against established players.
     - Systematically tested and optimized mobile shop locations through empirical analysis, turning location selection into the primary competitive advantage.
     - Obtained and maintained food safety certifications per Russian regulatory standards; passed periodic compliance audits.
@@ -96,7 +100,7 @@
     items:
     - 'Technologies: Temporal Graph Networks (TGN), Deep Support Vector Data Description (Deep SVDD), PyTorch Geometric'
     - Proposed TGN-SVDD, an end-to-end unsupervised intrusion detection model combining dynamic graph embeddings with deep one-class classification. Showed that vanilla TGNs, while strong for link prediction, are insufficient for intrusion detection, where anomaly detection objectives are critical.
-    - 'TGN-SVDD: ROC-AUC 0.994–0.999 vs 0.268–0.690 for vanilla TGN on CIC-IDS2017 (ICANN 2023)'
+    - 'TGN-SVDD: ROC-AUC 0.994 - 0.999 vs 0.268 - 0.690 for vanilla TGN on CIC-IDS2017 (ICANN 2023)'
     - On CIC-IDS2017 data, TGN-SVDD outperformed classical anomaly detectors (LOF, Isolation Forest) and vanilla TGN, establishing dynamic graph modeling as a superior paradigm for network-based anomaly detection.
   - title: Robust Intrusion Detection under Noisy and Adversarial Conditions
     items:
