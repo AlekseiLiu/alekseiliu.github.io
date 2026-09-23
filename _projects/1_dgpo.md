@@ -19,4 +19,4 @@ A bidirectional-control ablation, inverting the reward, drives accuracy to 9.5% 
 
 Accepted at IJCNN 2026 (WCCI). Paper: <a href="https://arxiv.org/abs/2602.19261">arXiv:2602.19261</a>. Code: <a href="https://github.com/AlekseiLiu/DGPO">github.com/AlekseiLiu/DGPO</a> (MIT, Makefile one-command reproduction, pinned requirements).
 
-Full poster: [PNG](/assets/img/dgpo_poster_full.png).
+Full poster as presented at IJCNN 2026 (archival image, wording as printed): [PNG](/assets/img/dgpo_poster_full.png).

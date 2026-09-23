@@ -12,7 +12,7 @@
   - name: Location
     value: Bielefeld, Germany
   - name: Email
-    value: <a href="mailto:lyulyakov.alexey@gmail.com">lyulyakov.alexey@gmail.com</a>
+    value: <a href="mailto:aliuliakov@techfak.uni-bielefeld.de">aliuliakov@techfak.uni-bielefeld.de</a>
   - name: Website
     value: <a href="https://alekseiliu.github.io/">alekseiliu.github.io</a>
   - name: GitHub
@@ -29,28 +29,28 @@
   - title: PhD in Machine Learning
     institution: Bielefeld University
     location: Bielefeld, Germany
-    year: 2020 - 2026
+    year: 2020 – 2026
     description:
     - 'Dissertation: ''Graph-Based Machine Learning: From Modeling Structured Data for Security to Generating Neural Architectures'' (supervisor: Prof. Barbara Hammer)'
     - Defence expected Dec 2026
   - title: M.Sc. in Data Science
     institution: Bielefeld University
     location: Bielefeld, Germany
-    year: 2018 - 2021
+    year: 2018 – 2021
     description:
     - 'Thesis: Automated Machine Learning (AutoML) technologies for feature selection'
     - Thesis completed 2021-03-19
-  - title: M.Sc. in Econometrics &amp; Quantitative Economics
+  - title: Master of Economics in Mathematical Methods of Economic Analysis
     institution: Novosibirsk State University
     location: Novosibirsk, Russia
-    year: 2007 - 2010
+    year: 2007 – 2010
     description:
     - 'Degree topics include: econometrics, mathematical economics, microeconomics, macroeconomics'
     - 'Dissertation: ''Evaluation of application possibilities of weather based financial options in Russia'''
   - title: B.Sc. in Physics
     institution: Novosibirsk State University
     location: Novosibirsk, Russia
-    year: 2003 - 2007
+    year: 2003 – 2007
     description:
     - 'Degree topics include: higher algebra and analytical geometry, differential equations, computer simulation of physical phenomena, linear algebra, calculus, functional analysis, probability theory and mathematical statistics'
     - 'Dissertation: ''Research of cold cathode arc generators of plasma with time interval impulses measured in seconds'''
@@ -59,14 +59,14 @@
   contents:
   - title: Doctoral Researcher, Machine Learning
     institution: Bielefeld University
-    year: 2020 - present
+    year: 2020 – present
     description:
     - Research on generative AI for neural architecture search (graph diffusion + RL), anomaly &amp; OOD detection with AutoML, GNNs, and probabilistic methods.
     - Published 6 papers at international conferences and journals (5 as first author).
   - title: Founder &amp; CEO, Baltik Bread
     institution: Baltik bread Novosibirsk (bakery manufacturing &amp; mobile retail)
     location: Novosibirsk, Russia
-    year: 2011 - 2018
+    year: 2011 – 2018
     description:
     - Co-founded and scaled a dual manufacturing + retail operation from zero with 500k - 600k EUR initial investment; reached break-even in year 2; achieved full ROI with interest within 4 years.
     - Grew the business to ~1M EUR annual revenue at peak, manufacturing ~2,500 units daily (~780K annually) across ~40 SKUs with a 90%+ sell-through rate and under 10% waste.
@@ -122,7 +122,7 @@
   contents:
   - title: Tutor &amp; Supervisor, Applied Optimization
     institution: Bielefeld University
-    year: 2023 - 2025
+    year: 2023 – 2025
     description:
     - 'Semesters: Oct 2023 – Mar 2024; Oct 2024 – Mar 2025'
     - Supervised and coordinated fellow tutors to prepare tutorial sessions.
@@ -130,7 +130,7 @@
     - Facilitated discussions and iteratively improved tasks based on student and tutor feedback.
   - title: Seminar Supervisor &amp; Tutor, Implications of the AI Act in Machine Learning
     institution: Bielefeld University
-    year: 2024 - 2025
+    year: 2024 – 2025
     description:
     - 'Semesters: Apr 2024 – Sep 2024; Apr 2025 – Sep 2025'
     - Organised and led seminar on AI regulation and practical ML applications.
