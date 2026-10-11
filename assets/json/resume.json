@@ -85,12 +85,51 @@
     }
   ],
   "publications": [
-    {"name": "DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation", "publisher": "IJCNN 2026 (IEEE WCCI), Maastricht", "releaseDate": "2026", "url": "https://arxiv.org/abs/2602.19261", "summary": "A. Liuliakov, L. Hermes, B. Hammer", "code": "https://github.com/AlekseiLiu/DGPO"},
-    {"name": "Noise Robust One-Class Intrusion Detection on Dynamic Graphs", "publisher": "ESANN 2024", "releaseDate": "2024", "url": "https://arxiv.org/abs/2508.14192", "summary": "A. Liuliakov, A. Schulz, L. Hermes, B. Hammer. Published version: doi.org/10.14428/esann/2024.ES2024-124", "code": "https://github.com/AlekseiLiu/rtgn_svdd"},
-    {"name": "One-Class Intrusion Detection with Dynamic Graphs", "publisher": "ICANN 2023", "releaseDate": "2023", "url": "https://arxiv.org/abs/2508.12885", "summary": "A. Liuliakov, A. Schulz, L. Hermes, B. Hammer. Published version: doi.org/10.1007/978-3-031-44216-2_44", "code": "https://github.com/AlekseiLiu/tgn_svdd"},
-    {"name": "Graph Learning by Dynamic Sampling", "publisher": "IJCNN 2023", "releaseDate": "2023", "url": "https://doi.org/10.1109/IJCNN54540.2023.10191846", "summary": "L. Hermes, A. Liuliakov, M. Schilling"},
-    {"name": "AutoML technologies for the identification of sparse classification and outlier detection models", "publisher": "Applied Soft Computing, 2023", "releaseDate": "2023", "url": "https://doi.org/10.1016/j.asoc.2022.109942", "summary": "A. Liuliakov, L. Hermes, B. Hammer"},
-    {"name": "AutoML Technologies for the Identification of Sparse Models", "publisher": "IDEAL 2021", "releaseDate": "2021", "url": "https://doi.org/10.1007/978-3-030-91608-4_7", "summary": "A. Liuliakov, B. Hammer"}
+    {
+      "name": "DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation",
+      "publisher": "IJCNN 2026 (IEEE WCCI), Maastricht",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2602.19261",
+      "summary": "A. Liuliakov, L. Hermes, B. Hammer",
+      "code": "https://github.com/AlekseiLiu/DGPO"
+    },
+    {
+      "name": "Noise Robust One-Class Intrusion Detection on Dynamic Graphs",
+      "publisher": "ESANN 2024",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2508.14192",
+      "summary": "A. Liuliakov, A. Schulz, L. Hermes, B. Hammer. Published version: doi.org/10.14428/esann/2024.ES2024-124",
+      "code": "https://github.com/AlekseiLiu/rtgn_svdd"
+    },
+    {
+      "name": "One-Class Intrusion Detection with Dynamic Graphs",
+      "publisher": "ICANN 2023",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/abs/2508.12885",
+      "summary": "A. Liuliakov, A. Schulz, L. Hermes, B. Hammer. Published version: doi.org/10.1007/978-3-031-44216-2_44",
+      "code": "https://github.com/AlekseiLiu/tgn_svdd"
+    },
+    {
+      "name": "Graph Learning by Dynamic Sampling",
+      "publisher": "IJCNN 2023",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1109/IJCNN54540.2023.10191846",
+      "summary": "L. Hermes, A. Liuliakov, M. Schilling"
+    },
+    {
+      "name": "AutoML technologies for the identification of sparse classification and outlier detection models",
+      "publisher": "Applied Soft Computing, 2023",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1016/j.asoc.2022.109942",
+      "summary": "A. Liuliakov, L. Hermes, B. Hammer"
+    },
+    {
+      "name": "AutoML Technologies for the Identification of Sparse Models",
+      "publisher": "IDEAL 2021",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1007/978-3-030-91608-4_7",
+      "summary": "A. Liuliakov, B. Hammer"
+    }
   ],
   "volunteer": [
     {
@@ -103,8 +142,25 @@
     }
   ],
   "skills": [
-    { "name": "Machine Learning & Research", "keywords": ["Generative AI", "Diffusion Models", "Reinforcement Learning", "Graph Neural Networks", "Deep Learning", "AutoML", "Neural Architecture Search", "Anomaly Detection", "OOD Robustness", "Probabilistic Modeling"] },
-    { "name": "Programming & Tools", "keywords": ["Python", "PyTorch", "PyTorch Geometric", "PyTorch Lightning", "Optuna", "scikit-learn", "NumPy", "Pandas"] },
+    {
+      "name": "Machine Learning & Research",
+      "keywords": [
+        "Generative AI",
+        "Diffusion Models",
+        "Reinforcement Learning",
+        "Graph Neural Networks",
+        "Deep Learning",
+        "AutoML",
+        "Neural Architecture Search",
+        "Anomaly Detection",
+        "OOD Robustness",
+        "Probabilistic Modeling"
+      ]
+    },
+    {
+      "name": "Programming & Tools",
+      "keywords": ["Python", "PyTorch", "PyTorch Geometric", "PyTorch Lightning", "Optuna", "scikit-learn", "NumPy", "Pandas"]
+    },
     { "name": "Platforms & Practices", "keywords": ["Linux clusters", "Slurm", "Docker", "W&B", "Git", "GitHub"] },
     { "name": "AI Tools", "keywords": ["Claude Code", "OpenAI Codex", "GitHub Copilot", "Agentic software development"] }
   ],
@@ -114,6 +170,6 @@
     { "language": "French", "fluency": "A1" },
     { "language": "Russian", "fluency": "Native" }
   ],
- 
+
   "profiles_extra": { "github": "https://github.com/AlekseiLiu", "website": "https://alekseiliu.github.io/" }
 }
