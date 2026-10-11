@@ -10,7 +10,7 @@ nav_order: 6
 
 Below are courses, tutorials, and seminars I taught or supervised.
 
-### Tutor & Supervisor — Applied Optimization (Lecture & Tutorials)
+### Tutor & Supervisor, Applied Optimization
 
 _Bielefeld University · Oct 2023 – Mar 2024; Oct 2024 – Mar 2025_
 
@@ -20,7 +20,7 @@ _Bielefeld University · Oct 2023 – Mar 2024; Oct 2024 – Mar 2025_
 
 ---
 
-### Seminar Supervisor & Tutor — Implications of the AI Act in Machine (Seminar)
+### Seminar Supervisor & Tutor, Implications of the AI Act in Machine Learning
 
 _Bielefeld University · Apr 2024 – Sep 2024; Apr 2025 – Sep 2025_
 
