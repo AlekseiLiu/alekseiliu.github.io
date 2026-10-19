@@ -14,3 +14,4 @@ _includes/**/*.liquid
 _config.yml
 _sass/tabler-icons/*.scss
 _scripts/*
+assets/plotly/grid-n1/*.html

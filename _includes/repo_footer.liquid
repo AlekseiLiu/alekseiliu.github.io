@@ -1,0 +1,13 @@
+{% comment %}
+  Companion-repo footer for posts. Takes include.repo, for example Owner/name.
+{% endcomment %}
+<div class="l-body repo-footer">
+  <p>
+    <a href="https://github.com/{{ include.repo }}">
+      <img
+        src="https://img.shields.io/github/stars/{{ include.repo }}?style=social"
+        alt="Star {{ include.repo }} on GitHub"
+      >
+    </a>
+  </p>
+</div>
