@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 456" role="img" aria-label="Power triangle for line 6-8 drawn to scale: P = 24.8 MW and Q = 24.4 Mvar are perpendicular, so S = 35 MVA, beyond the 32 MVA rating, although P alone fits." font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Power triangle for line 6-8 drawn to scale: P = 24.8 MW and Q = 24.4 Mvar are perpendicular, so S = 35 MVA, beyond the 32 MVA rating, although P alone fits.</title>
+<defs></defs>
+<rect width="800" height="456" rx="14" fill="#FAFAF7"/>
+<text x="24" y="42" font-size="19" fill="#1d1d1b" text-anchor="start" font-weight="bold">Line 6-8: the MW fit the rating, the current does not</text>
+<path d="M384.0,384 A288.0,288.0 0 0 0 96,96.0" fill="none" stroke="#b91c1c" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="96" y1="384" x2="96" y2="88" stroke="#e6e5df" stroke-width="1" stroke-linecap="round"/>
+<line x1="96" y1="384" x2="392" y2="384" stroke="#e6e5df" stroke-width="1" stroke-linecap="round"/>
+<line x1="96" y1="384" x2="319.2" y2="384" stroke="#7a7a7a" stroke-width="5" stroke-linecap="butt"/>
+<line x1="319.2" y1="384" x2="319.2" y2="164.4" stroke="#eb6834" stroke-width="5" stroke-linecap="butt"/>
+<line x1="96" y1="384" x2="301.296" y2="182.016" stroke="#1d1d1b" stroke-width="4" stroke-linecap="butt"/>
+<line x1="301.296" y1="182.016" x2="319.2" y2="164.4" stroke="#b91c1c" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="96" cy="384" r="5" fill="#1d1d1b"/>
+<text x="207.6" y="414" font-size="16" fill="#7a7a7a" text-anchor="middle" font-weight="bold">P = V·I<tspan dy="4" font-size="13">p</tspan><tspan dy="-4" dx="4">= 24.8 MW</tspan></text>
+<text x="207.6" y="436" font-size="14" fill="#4a4a4a" text-anchor="middle">does work; all that DC sees</text>
+<text x="305.2" y="318" font-size="16" fill="#eb6834" text-anchor="end" font-weight="bold">Q = V·I<tspan dy="4" font-size="13">q</tspan><tspan dy="-4" dx="0">&#8203;</tspan></text>
+<text x="305.2" y="340" font-size="16" fill="#eb6834" text-anchor="end" font-weight="bold">= 24.4 Mvar</text>
+<text x="305.2" y="368" font-size="14" fill="#4a4a4a" text-anchor="end">sloshes back and forth</text>
+<text x="331.2" y="152.4" font-size="16" fill="#1d1d1b" text-anchor="start" font-weight="bold">S ≈ 35 MVA: sets |I|, heats the wire</text>
+<text x="396" y="376" font-size="15" fill="#b91c1c" text-anchor="start" font-weight="bold">rating 32 MVA</text>
+<line x1="576" y1="290" x2="690.08" y2="290" stroke="#7a7a7a" stroke-width="4" stroke-linecap="butt"/>
+<line x1="690.08" y1="290" x2="690.08" y2="177.76" stroke="#eb6834" stroke-width="4" stroke-linecap="butt"/>
+<line x1="576" y1="290" x2="690.08" y2="177.76" stroke="#1d1d1b" stroke-width="3" stroke-linecap="butt"/>
+<text x="633.04" y="316" font-size="15" fill="#7a7a7a" text-anchor="middle">I<tspan dy="4" font-size="13">p</tspan><tspan dy="-4" dx="4">in phase</tspan></text>
+<text x="700.08" y="238.88" font-size="15" fill="#eb6834" text-anchor="start">I<tspan dy="4" font-size="13">q</tspan><tspan dy="-4" dx="4">90° off</tspan></text>
+<text x="625.04" y="227.88" font-size="15" fill="#1d1d1b" text-anchor="end" font-weight="bold">|I|</text>
+<text x="568" y="356" font-size="15" fill="#4a4a4a" text-anchor="start">I² = I<tspan dy="4" font-size="13">p</tspan><tspan dy="-4">² + I</tspan><tspan dy="4" font-size="13">q</tspan><tspan dy="-4">²,  so S² = P² + Q²</tspan></text>
+</svg>

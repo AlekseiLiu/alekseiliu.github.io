@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 412" role="img" aria-label="N-1: when the top line trips, its flow moves onto every parallel path at once, split by impedance, and the middle line goes from 46 % to 104 % of its rating." font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>N-1: when the top line trips, its flow moves onto every parallel path at once, split by impedance, and the middle line goes from 46 % to 104 % of its rating.</title>
+<defs><marker id="a-ink3" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a8a8a"/></marker></defs>
+<rect width="800" height="412" rx="14" fill="#FAFAF7"/>
+<text x="24" y="42" font-size="19" fill="#1d1d1b" text-anchor="start" font-weight="bold">N-1: one line trips, and physics reroutes its flow</text>
+<line x1="400" y1="70" x2="400" y2="352" stroke="#e6e5df" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="84" font-size="15" fill="#4a4a4a" text-anchor="start" font-weight="bold">Before: all lines in service</text>
+<line x1="124" y1="140" x2="300" y2="140" stroke="#5e5d59" stroke-width="7.5" stroke-linecap="butt"/>
+<polygon points="219.9,140.0 204.1,151.0 204.1,129.0" fill="#5e5d59"/>
+<line x1="124" y1="230" x2="300" y2="230" stroke="#5e5d59" stroke-width="5.3" stroke-linecap="butt"/>
+<polygon points="218.9,230.0 205.1,239.2 205.1,220.8" fill="#5e5d59"/>
+<line x1="124" y1="320" x2="300" y2="320" stroke="#5e5d59" stroke-width="6.4" stroke-linecap="butt"/>
+<polygon points="219.4,320.0 204.6,330.1 204.6,309.9" fill="#5e5d59"/>
+<line x1="124" y1="140" x2="124" y2="230" stroke="#5e5d59" stroke-width="3.1" stroke-linecap="butt"/>
+<polygon points="124.0,190.9 116.5,179.1 131.5,179.1" fill="#5e5d59"/>
+<line x1="124" y1="320" x2="124" y2="230" stroke="#5e5d59" stroke-width="4.2" stroke-linecap="butt"/>
+<polygon points="124.0,268.6 132.4,281.4 115.6,281.4" fill="#5e5d59"/>
+<line x1="300" y1="230" x2="300" y2="140" stroke="#5e5d59" stroke-width="3.1" stroke-linecap="butt"/>
+<polygon points="300.0,179.1 307.5,190.9 292.5,190.9" fill="#5e5d59"/>
+<line x1="300" y1="320" x2="300" y2="230" stroke="#5e5d59" stroke-width="3.1" stroke-linecap="butt"/>
+<polygon points="300.0,269.1 307.5,280.9 292.5,280.9" fill="#5e5d59"/>
+<line x1="88" y1="140" x2="124" y2="140" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="76" cy="140" r="12" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="2"/><path d="M70,140 q3,-6 6,0 t6,0" fill="none" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="88" y1="320" x2="124" y2="320" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="76" cy="320" r="12" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="2"/><path d="M70,320 q3,-6 6,0 t6,0" fill="none" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="300" y1="140" x2="340" y2="140" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<line x1="300" y1="230" x2="340" y2="230" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<line x1="300" y1="320" x2="340" y2="320" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<circle cx="124" cy="140" r="8" fill="#1d1d1b"/>
+<circle cx="124" cy="230" r="8" fill="#1d1d1b"/>
+<circle cx="124" cy="320" r="8" fill="#1d1d1b"/>
+<circle cx="300" cy="140" r="8" fill="#1d1d1b"/>
+<circle cx="300" cy="230" r="8" fill="#1d1d1b"/>
+<circle cx="300" cy="320" r="8" fill="#1d1d1b"/>
+<text x="212" y="124.25" font-size="15" fill="#4a4a4a" text-anchor="middle">77 %</text>
+<text x="212" y="215.35" font-size="15" fill="#4a4a4a" text-anchor="middle">46 %</text>
+<text x="212" y="304.8" font-size="15" fill="#4a4a4a" text-anchor="middle">62 %</text>
+<text x="424" y="84" font-size="15" fill="#4a4a4a" text-anchor="start" font-weight="bold">After: the top line trips</text>
+<line x1="524" y1="140" x2="700" y2="140" stroke="#1d1d1b" stroke-width="2" stroke-linecap="butt" stroke-dasharray="6 4"/>
+<line x1="605" y1="133" x2="619" y2="147" stroke="#1d1d1b" stroke-width="2.5" stroke-linecap="round"/><line x1="605" y1="147" x2="619" y2="133" stroke="#1d1d1b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="524" y1="230" x2="700" y2="230" stroke="#b91c1c" stroke-width="9.425" stroke-linecap="butt"/>
+<polygon points="620.7,230.0 603.3,242.5 603.3,217.5" fill="#b91c1c"/>
+<line x1="524" y1="320" x2="700" y2="320" stroke="#5e5d59" stroke-width="7.775" stroke-linecap="butt"/>
+<polygon points="620.0,320.0 604.0,331.2 604.0,308.8" fill="#5e5d59"/>
+<line x1="524" y1="140" x2="524" y2="230" stroke="#5e5d59" stroke-width="8.6" stroke-linecap="butt"/>
+<polygon points="524.0,193.4 512.1,176.6 535.9,176.6" fill="#5e5d59"/>
+<line x1="524" y1="320" x2="524" y2="230" stroke="#5e5d59" stroke-width="2.825" stroke-linecap="butt"/>
+<polygon points="524.0,269.2 531.3,280.8 516.7,280.8" fill="#5e5d59"/>
+<line x1="700" y1="230" x2="700" y2="140" stroke="#5e5d59" stroke-width="8.6" stroke-linecap="butt"/>
+<polygon points="700.0,176.6 711.9,193.4 688.1,193.4" fill="#5e5d59"/>
+<line x1="700" y1="320" x2="700" y2="230" stroke="#5e5d59" stroke-width="4.475" stroke-linecap="butt"/>
+<polygon points="700.0,268.5 708.6,281.5 691.4,281.5" fill="#5e5d59"/>
+<line x1="488" y1="140" x2="524" y2="140" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="476" cy="140" r="12" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="2"/><path d="M470,140 q3,-6 6,0 t6,0" fill="none" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="488" y1="320" x2="524" y2="320" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="476" cy="320" r="12" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="2"/><path d="M470,320 q3,-6 6,0 t6,0" fill="none" stroke="#4a4a4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="700" y1="140" x2="740" y2="140" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<line x1="700" y1="230" x2="740" y2="230" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<line x1="700" y1="320" x2="740" y2="320" stroke="#8a8a8a" stroke-width="2" marker-end="url(#a-ink3)"/>
+<circle cx="524" cy="140" r="8" fill="#1d1d1b"/>
+<circle cx="524" cy="230" r="8" fill="#1d1d1b"/>
+<circle cx="524" cy="320" r="8" fill="#1d1d1b"/>
+<circle cx="700" cy="140" r="8" fill="#1d1d1b"/>
+<circle cx="700" cy="230" r="8" fill="#1d1d1b"/>
+<circle cx="700" cy="320" r="8" fill="#1d1d1b"/>
+<text x="612" y="213.287" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="bold">104 %</text>
+<text x="612" y="304.113" font-size="15" fill="#4a4a4a" text-anchor="middle">81 %</text>
+<text x="538.3" y="190" font-size="15" fill="#4a4a4a" text-anchor="start">92 %</text>
+<text x="24" y="388" font-size="13" fill="#8a8a8a" text-anchor="start">Arrow width = MW. Every line is rated 65 MW.</text>
+<text x="776" y="388" font-size="15" fill="#1d1d1b" text-anchor="end" font-weight="bold">Physics sets the new steady state.</text>
+</svg>
