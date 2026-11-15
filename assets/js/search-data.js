@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-lose-one-line-where-the-linear-shortcut-fails",
+        },{id: "post-test-before-you-trust-what-a-gnn-adds-to-outage-screening-and-where-it-stops",
+        
+          title: "Test before you trust: what a GNN adds to outage screening, and where...",
+        
+        description: "On a standard test grid, plain physics with one simple correction closes most of the gap to the exact calculation and a GNN adds a little more, until conditions leave familiar ground.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/test-before-you-trust/";
+          
+        },
+      },{id: "post-lose-one-line-where-the-linear-shortcut-fails",
         
           title: "Lose one line: where the linear shortcut fails",
         
