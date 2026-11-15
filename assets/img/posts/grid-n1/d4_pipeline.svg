@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 478" role="img" aria-label="Each operating state has 186 single-branch outages, one case each. A screen sends a case to the exact calculation if its worst estimate plus a safety margin is above 100 %, otherwise the exact run is skipped. Outages that split the grid always go to the exact calculation. Caught is the share of overloaded cases sent to the exact calculation (target: 99 of 100); exact runs skipped is the share of all cases not sent." font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Each operating state has 186 single-branch outages, one case each. A screen sends a case to the exact calculation if its worst estimate plus a safety margin is above 100 %, otherwise the exact run is skipped. Outages that split the grid always go to the exact calculation. Caught is the share of overloaded cases sent to the exact calculation (target: 99 of 100); exact runs skipped is the share of all cases not sent.</title>
+<defs><marker id="a-ink2" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a4a4a"/></marker><marker id="a-ink" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d1d1b"/></marker><marker id="a-grey" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7a7a7a"/></marker><marker id="a-blue" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker></defs>
+<rect width="800" height="478" rx="14" fill="#FAFAF7"/>
+<text x="24" y="40" font-size="19" fill="#1d1d1b" text-anchor="start" font-weight="bold">A screen sorts the cases; the exact calculation</text>
+<text x="24" y="64" font-size="19" fill="#1d1d1b" text-anchor="start" font-weight="bold">decides the rest.</text>
+<rect x="24" y="202" width="120" height="56" rx="8" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="1.5"/>
+<text x="84" y="226" font-size="15" fill="#4a4a4a" text-anchor="middle"><tspan x="84">operating</tspan><tspan x="84" dy="19">state</tspan></text>
+<rect x="186" y="192" width="138" height="62" rx="8" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="1.5"/>
+<rect x="192" y="198" width="138" height="62" rx="8" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="1.5"/>
+<rect x="198" y="204" width="138" height="62" rx="8" fill="#FAFAF7" stroke="#4a4a4a" stroke-width="1.5"/>
+<text x="267" y="220" font-size="14" fill="#4a4a4a" text-anchor="middle"><tspan x="267">186 single-branch</tspan><tspan x="267" dy="18">outages</tspan><tspan x="267" dy="18">(one case each)</tspan></text>
+<line x1="144" y1="230" x2="182" y2="230" stroke="#4a4a4a" stroke-width="2" marker-end="url(#a-ink2)"/>
+<rect x="372" y="170" width="190" height="120" rx="10" fill="#eef4fc" stroke="#2a78d6" stroke-width="2.5"/>
+<line x1="336" y1="230" x2="368" y2="230" stroke="#4a4a4a" stroke-width="2" marker-end="url(#a-ink2)"/>
+<text x="467" y="198" font-size="17" fill="#1d1d1b" text-anchor="middle" font-weight="bold">screen</text>
+<text x="467" y="224" font-size="15" fill="#4a4a4a" text-anchor="middle"><tspan x="467">worst estimate +</tspan><tspan x="467" dy="19">safety margin</tspan><tspan x="467" dy="19">above 100 %?</tspan></text>
+<line x1="467" y1="290" x2="467" y2="305" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="467" cy="320" r="15" fill="#FAFAF7" stroke="#2a78d6" stroke-width="2.5"/>
+<line x1="467" y1="320" x2="475" y2="312" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<text x="467" y="360" font-size="15" fill="#4a4a4a" text-anchor="middle">safety margin: larger means fewer misses, more exact runs</text>
+<rect x="620" y="130" width="156" height="56" rx="8" fill="#FAFAF7" stroke="#1d1d1b" stroke-width="2"/>
+<text x="698" y="154" font-size="15" fill="#1d1d1b" text-anchor="middle" font-weight="bold"><tspan x="698">yes: exact</tspan><tspan x="698" dy="19">calculation</tspan></text>
+<rect x="620" y="274" width="156" height="56" rx="8" fill="#FAFAF7" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="7 4"/>
+<text x="698" y="307" font-size="15" fill="#4a4a4a" text-anchor="middle">no: skipped</text>
+<path d="M562,204 C592,204 590,170 616,170" fill="none" stroke="#1d1d1b" stroke-width="2" marker-end="url(#a-ink)"/>
+<path d="M562,256 C592,256 590,302.0 616,302.0" fill="none" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a-grey)"/>
+<path d="M255,188 C255,102 470,90 616,144" fill="none" stroke="#1d1d1b" stroke-width="2" marker-end="url(#a-ink)"/>
+<text x="330" y="92" font-size="15" fill="#4a4a4a" text-anchor="start">outages that split the grid: always exact</text>
+<line x1="24" y1="384" x2="776" y2="388" stroke="#e6e5df" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="414" font-size="15" fill="#1d1d1b" text-anchor="start"><tspan x="24">caught = overloaded cases sent to the</tspan><tspan x="24" dy="20">exact calculation, out of all overloaded</tspan><tspan x="24" dy="20">cases (target: 99 of 100)</tspan></text>
+<text x="430" y="414" font-size="15" fill="#1d1d1b" text-anchor="start"><tspan x="430">exact runs skipped = cases not sent,</tspan><tspan x="430" dy="20">out of all cases</tspan></text>
+</svg>

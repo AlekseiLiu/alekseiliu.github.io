@@ -134,6 +134,8 @@ DC power flow gets the MW nearly right in one linear solve. It fails in one plac
 
 In the next post I move to a 118-bus standard test grid and ask the operator's question directly: how much of the exact AC work can a screen skip without missing overloads? It compares the operator's linear shortcut, a simple physics correction of it, and a graph neural network.
 
+The next post is out: [Test before you trust: what a GNN adds to outage screening, and where it stops]({% post_url 2026-11-15-test-before-you-trust %}).
+
 _Built with pandapower (AC and DC power flow, and the IEEE 30-bus case), marimo notebooks, NumPy, pandas, Matplotlib and Plotly, in a uv-pinned environment with pytest in CI. Thanks to the pandapower team for making grid analysis this accessible. Code written with AI coding agents (Claude Code, Codex) in a test-guided loop; results reviewed and every number checked against its source._
 
 {% include repo_footer.liquid repo="AlekseiLiu/grid-n1" %}
